@@ -73,8 +73,7 @@ The Online Book Rental System is a web application designed to facilitate the re
    mvn spring-boot:run
    ```
 5. The application will be accessible at:
-   ```
-http://localhost:8080
+   ```http://localhost:8080
 ```
 
 ## API Endpoints
